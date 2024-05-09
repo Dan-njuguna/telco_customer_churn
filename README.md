@@ -42,13 +42,14 @@
 
 - To handle the data and create the model, the following methods have been employed in out project:
 
-1. Data Understanding: Understand the dataset and the problem statement.
-2. Data preprocessing and cleaning: Load the [dataset](telco_customer_churn.csv) and clean it.
-3. Exploratory data analysis: Find patterns in the dataset. We try to analyze different factors which affect the target variable(churn column) and the extent to which it does so.
-4. Model Building: evaluate the best machine learning algorithm to identify complex patterns in the data.
+    1. Data Understanding: Understand the dataset and the problem statement.
+    2. Data preprocessing and cleaning: Load the [dataset](telco_customer_churn.csv) and clean it.
+    3. Exploratory data analysis: Find patterns in the dataset. We try to analyze different factors which affect the target variable(churn column) and the extent to which it does so.
+    4. Feature Engineering: creating new features or transforming existing features to improve the performance of a machine-learning model.
+    5. Model Building: evaluate the best machine learning algorithm to identify complex patterns in the data.
 
 ## Conclusion
 
 - In conclusion, we have drawn the following observations from the data.
 - That;
-    1. ...
+    1) ...
